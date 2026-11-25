@@ -1,4 +1,3 @@
-# Recetas fáciles
-- Tortilla
+# Recetas de la abuela
 -Tortilla
--torilla
+-Gazpacho
