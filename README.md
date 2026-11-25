@@ -1,4 +1,4 @@
-# Mis recetas
+# Recetas fáciles
 - Tortilla
 -Tortilla
 -torilla
